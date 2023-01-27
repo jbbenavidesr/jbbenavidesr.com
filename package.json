@@ -8,7 +8,8 @@
         "start": "astro dev",
         "build": "astro build",
         "preview": "astro preview",
-        "astro": "astro"
+        "astro": "astro",
+        "format": "prettier --plugin-search-dir . --write ."
     },
     "dependencies": {
         "@astrojs/mdx": "^0.15.1",
@@ -17,6 +18,7 @@
         "astro": "^2.0.2"
     },
     "devDependencies": {
-        "gitmoji-cli": "^7.0.3"
+        "gitmoji-cli": "^7.0.3",
+        "prettier": "^2.8.3"
     }
 }
