@@ -3,3 +3,4 @@
 
 export const SITE_TITLE = 'Juan Bernardo Benavides Rubio';
 export const SITE_DESCRIPTION = 'Welcome to my digital space.';
+export const NAME = 'Juan Bernardo Benavides Rubio';
